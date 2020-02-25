@@ -1,4 +1,4 @@
-package com.fradantim.ratingdataservice.models;
+package com.fradantim.movieApp.models;
 
 public class Rating {
 	private String movieId;

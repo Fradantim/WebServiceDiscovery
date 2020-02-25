@@ -20,6 +20,7 @@
 		<module>movie-catalog-service</module>
 		<module>movie-info-service</module>
 		<module>rating-data-service</module>
+		<module>movie-model</module>
 	</modules>
 
 	<properties>

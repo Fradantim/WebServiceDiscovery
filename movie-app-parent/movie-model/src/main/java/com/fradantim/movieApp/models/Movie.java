@@ -1,4 +1,4 @@
-package com.fradantim.movieinfoservice.models;
+package com.fradantim.movieApp.models;
 
 public class Movie {
 
